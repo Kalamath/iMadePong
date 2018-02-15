@@ -1,4 +1,4 @@
-# i Made Pong
+# iMadePong
 
 <!DOCTYPE html>
 <html>
